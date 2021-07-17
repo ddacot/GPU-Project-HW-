@@ -15,4 +15,4 @@ Current State:
 1. Schematic: 95/100 
 2. PCB: working on arranging the components on the board. 
 
-![image](PCB_layout.png))
+![image](https://github.com/ddacot/GPU-Project-HW-/blob/main/PCB_layout.PNG)
