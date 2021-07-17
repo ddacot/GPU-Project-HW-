@@ -12,7 +12,7 @@ Currently working on designing a graphics card. The design features:
 7. UART interfaces
 
 Current State:
-1. Schematic: 95/100 
+1. [Schematic](https://github.com/ddacot/GPU-Project-HW-/blob/main/GPU_schematic.pdf): 95/100 
 2. PCB: working on arranging the components on the board. 
 
 ![image](https://github.com/ddacot/GPU-Project-HW-/blob/main/PCB_layout.PNG)
